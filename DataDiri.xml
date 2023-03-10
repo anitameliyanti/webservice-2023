@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Cv>
+    <DataDiri>
+     <namalengkap>
+        <awal>Anita</awal>
+        <akhir>Meliyanti</akhir>
+     </namalengkap>
+     <ttl>
+        <tempat>Tangerang</tempat>
+        <tanggal>23 May</tanggal>
+        <tahun>2003</tahun>
+     </ttl>
+     <alamat>
+        <jalan>Jl. Lembang 2 Lama Rt 03 Rw 06</jalan>
+        <kelurahan>Sudimara Barat</kelurahan>
+        <kecamatan>Ciledug</kecamatan>
+        <kota>Tangerang</kota>
+     </alamat>
+     <pendidikan>
+      <status>Mahasiswa</status>
+      <kampus>STMIK Antar Bangsa</kampus>
+     </pendidikan>
+     <hobi>Menonton Drama</hobi>
+     <agama>Islam</agama>
+     <jeniskelamin>Perempuan</jeniskelamin>
+     <email>anitamlynt23@gmail.com</email>
+     
+    </DataDiri>
+
+    <DataOrtu>
+     <dataAyah>
+        <nama>Asdi</nama>
+        <ttl>15 Juni</ttl>
+     </dataAyah>
+     <dataIbu>
+        <nama>Naniek Hendrayati</nama>
+        <ttl>24 April</ttl>
+     </dataIbu>
+    </DataOrtu>
+</Cv>
+
